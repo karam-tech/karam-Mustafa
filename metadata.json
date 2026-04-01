@@ -1,0 +1,5 @@
+{
+  "name": "AI Accounting Assistant",
+  "description": "An accounting application for a shipping and customs clearance company, featuring automated journal entry posting and an AI assistant for reports and business advice.",
+  "requestFramePermissions": []
+}
